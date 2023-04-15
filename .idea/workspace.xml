@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51b99af5-848a-4e14-9b35-c62ae5ac5614" name="Changes" comment="" />
+    <list default="true" id="51b99af5-848a-4e14-9b35-c62ae5ac5614" name="Changes" comment="dreamer">
+      <change beforePath="$PROJECT_DIR$/spring-first/d:/spring6_log/app.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-first/d:/spring6_log/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-first/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-first/src/main/resources/log4j2.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2IfHs8JGAG3xKzuLBNLFah9ByJK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17 (2)",
     "last_opened_file_path": "C:/Users/Administrator/Desktop/springcode/spring6/spring6-validator/src/main/java/com/atguigu/spring6/validator",
@@ -173,12 +182,42 @@
       <workItem from="1671192676433" duration="5847000" />
       <workItem from="1671244349824" duration="20289000" />
       <workItem from="1671329131898" duration="23388000" />
-      <workItem from="1681528190140" duration="2196000" />
+      <workItem from="1681528190140" duration="2595000" />
     </task>
+    <task id="LOCAL-00001" summary="dreamer">
+      <created>1681531852124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681531852124</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dreamer">
+      <created>1681531902001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681531902001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dreamer" />
+    <option name="LAST_COMMIT_MESSAGE" value="dreamer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
