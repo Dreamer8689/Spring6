@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51b99af5-848a-4e14-9b35-c62ae5ac5614" name="Changes" comment="dreamer">
-      <change beforePath="$PROJECT_DIR$/spring-first/d:/spring6_log/app.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-first/d:/spring6_log/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-first/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-first/src/main/resources/log4j2.xml" afterDir="false" />
+    <list default="true" id="51b99af5-848a-4e14-9b35-c62ae5ac5614" name="Changes" comment="dreamer  日志">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +180,7 @@
       <workItem from="1671192676433" duration="5847000" />
       <workItem from="1671244349824" duration="20289000" />
       <workItem from="1671329131898" duration="23388000" />
-      <workItem from="1681528190140" duration="2595000" />
+      <workItem from="1681528190140" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="dreamer">
       <created>1681531852124</created>
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681531902001</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dreamer  日志">
+      <created>1681532138681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681532138681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +222,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dreamer" />
-    <option name="LAST_COMMIT_MESSAGE" value="dreamer" />
+    <MESSAGE value="dreamer  日志" />
+    <option name="LAST_COMMIT_MESSAGE" value="dreamer  日志" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
