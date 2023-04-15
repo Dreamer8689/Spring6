@@ -6,3 +6,7 @@
 2023-04-15 at 11:54:35 CST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
 2023-04-15 at 11:54:35 CST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
 2023-04-15 at 11:54:35 CST INFO  com.dreamer.spring6.TestUser 29 testUserObject - ### 执行调用成功了..
+2023-04-15 at 12:11:12 CST DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@26425897
+2023-04-15 at 12:11:12 CST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2023-04-15 at 12:11:12 CST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2023-04-15 at 12:11:12 CST INFO  com.dreamer.spring6.TestUser 29 testUserObject - ### 执行调用成功了..
