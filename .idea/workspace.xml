@@ -74,7 +74,7 @@
       <recent name="com.atguigu.spring6.iocxml.ditest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestUser.testUserObject (1)">
+  <component name="RunManager" selected="JUnit.TestAop.testAdd">
     <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dreamer.spring6.User" />
       <module name="spring-first" />
@@ -88,17 +88,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-first" />
+    <configuration name="TestAop.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring6-aop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spring6.*" />
+          <option name="PATTERN" value="com.dreamer.spring6.aop.annoaop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.spring6" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.TestUser" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.dreamer.spring6.aop.annoaop" />
+      <option name="MAIN_CLASS_NAME" value="com.dreamer.spring6.aop.annoaop.TestAop" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestAop.testAdd" />
         <item itemvalue="JUnit.TestUser.testUserObject (1)" />
         <item itemvalue="Application.User" />
         <item itemvalue="JUnit.TestUser.testUserObject1" />
         <item itemvalue="JUnit.TestUser.testUserObject" />
-        <item itemvalue="JUnit.TestUser" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +181,7 @@
       <workItem from="1671192676433" duration="5847000" />
       <workItem from="1671244349824" duration="20289000" />
       <workItem from="1671329131898" duration="23388000" />
-      <workItem from="1681528190140" duration="3008000" />
+      <workItem from="1681528190140" duration="3683000" />
     </task>
     <task id="LOCAL-00001" summary="dreamer">
       <created>1681531852124</created>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681532138681</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dreamer  日志">
+      <created>1681533159977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681533159977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,17 +232,6 @@
     <MESSAGE value="dreamer" />
     <MESSAGE value="dreamer  日志" />
     <option name="LAST_COMMIT_MESSAGE" value="dreamer  日志" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/atguigu-spring/src/main/java/com/atguigu/bean/AnnotationApplicationContext.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
